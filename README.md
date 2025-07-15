@@ -181,5 +181,5 @@ This project is developed as part of a technical assessment for battery monitori
 
 ---
 
-**Developed with ⚡ by [Your Name]**  
+**Developed with ⚡ by Bivishan**
 *Demonstrating expertise in React, TypeScript, data visualization, and modern web development practices*
